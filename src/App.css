@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  width: 100vw;
+  height: 100vh;
 }
 
 .App-logo {
@@ -35,4 +37,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.presentation{
+  width: 100%;
+  height: 100%;
 }
